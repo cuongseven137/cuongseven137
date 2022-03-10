@@ -75,11 +75,18 @@
           width: 74px;
         }
 			</style>
-
+      <style>
+        h1 {text-align: center;}
+        </style>
 			<div class="container">
         <div class="earth"></div>
 				<div class="greeting">
-          Chào tất cả mọi người !<br/> Hi everyone !<br/>こんにちは、みんな！<br/> ~Lion
+          Chào tất cả mọi người !<br/> Hi everyone !<br/>こんにちは、みんな !
+          <br/>-----------------------------
+          <br/>I'm Dinh Quoc Cuong !
+        </div>
+        <div>
+          <h1> ~Lion</h1>
         </div>
         <div class="skills">
           <div class="skills_icon">
